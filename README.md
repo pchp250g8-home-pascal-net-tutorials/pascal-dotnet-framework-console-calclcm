@@ -1,4 +1,4 @@
-CalcLcm. Pascal Tutorials. Platform DotNet FrameWork. Algorithms. Console Application. 
+CalcLcm. Pascal Tutorials. Platform DotNet FrameWork. Algorithms. Console Application.
 A console application in the Pascal programming language. 
 The program does the following:
   1. Prompts the user for two integers whose greatest common divisor needs to be found.
